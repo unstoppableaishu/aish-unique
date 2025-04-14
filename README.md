@@ -1,2 +1,2 @@
 # aish-unique
-Iam a passionate Aerospace Engineering, complex problem solver and iam not like other engineers , i have a unique way to contribute, unique thinking skills. 
+Iam a passionate Aerospace Engineering.  This is my first GitHub project. I will explore simple aerospace and physics simulations.
